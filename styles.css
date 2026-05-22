@@ -1,0 +1,60 @@
+body {
+    font: normal 16pt Arial;
+    background: #f4f4f4;
+    text-align: center;
+}
+main {
+    background: white;
+    width: 450px;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1);
+}
+input {
+    font: normal 14pt Arial;
+    width: 80%;
+    margin: 10px 0;
+    padding: 5px;
+}
+
+input[type="text"]{
+    text-transform: uppercase;
+}
+
+input#btn {
+    background: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+div#res {
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.recusado{
+    background-color: #ffcccc;
+    border: 2px solid red;
+    color: darkred;
+}
+
+.aceito{
+    background-color: #d4edda;
+    border: 2px solid green;
+    color: black;
+}
+
+.prioritaria{
+    background-color: #fff3cd;
+    border: 2px solid orange;
+    color: black;
+}
+
+.especial{
+    background-color: #e2d6ff;
+    border: 2px solid purple;
+    color: black;
+}
