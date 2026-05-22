@@ -1,9 +1,9 @@
-body {
+body{
     font: normal 16pt Arial;
     background: #f4f4f4;
     text-align: center;
 }
-main {
+main{
     background: white;
     width: 450px;
     margin: 30px auto;
@@ -11,7 +11,7 @@ main {
     border-radius: 10px;
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1);
 }
-input {
+input{
     font: normal 14pt Arial;
     width: 80%;
     margin: 10px 0;
